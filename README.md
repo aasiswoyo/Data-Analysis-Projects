@@ -1,3 +1,3 @@
 # Data-Analysis-Projects
 
-A collection of personal data analysis projects
+Collection of personal data analysis projects
